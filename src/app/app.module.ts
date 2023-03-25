@@ -3,10 +3,16 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ProwayComponent } from './proway/proway.component';
+import { HeaderComponent } from './header/header.component';
+import { RouterComponent } from './router/router.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ProwayComponent,
+    HeaderComponent,
+    RouterComponent
   ],
   imports: [
     BrowserModule,
