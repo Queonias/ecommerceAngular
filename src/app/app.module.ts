@@ -8,7 +8,9 @@ import { HeaderComponent } from './header/header.component';
 import { RouterComponent } from './router/router.component';
 import { NaoEncontradoComponent } from './nao-encontrado/nao-encontrado.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatSnackBarModule } from '@angular/material/snack-bar'
+import { MatSnackBarModule } from '@angular/material/snack-bar';
+import { BarraDePesquisaComponent } from './barra-de-pesquisa/barra-de-pesquisa.component'
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -16,13 +18,15 @@ import { MatSnackBarModule } from '@angular/material/snack-bar'
     ProwayComponent,
     HeaderComponent,
     RouterComponent,
-    NaoEncontradoComponent
+    NaoEncontradoComponent,
+    BarraDePesquisaComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
     MatSnackBarModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
