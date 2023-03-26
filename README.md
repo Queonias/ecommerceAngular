@@ -1,27 +1,36 @@
-# Loja
+<h1>Angular E-Commerce</h1>
+<p>Este projeto é uma página de e-commerce desenvolvida em Angular. Os usuários podem comprar produtos, adicionar ao carrinho, pesquisar por descrição e enviar formulários de contato.</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+<h2>Funcionalidades</h2>
+<ul>
+<li>Os usuários podem visualizar produtos disponíveis para venda</li>
+<li>Os usuários podem adicionar produtos ao carrinho</li>
+<li>Os usuários podem remover produtos do carrinho</li>
+<li>Os usuários podem pesquisar produtos por descrição</li>
+<li>Os usuários podem enviar formulários de contato</li>
+</ul>
 
-## Development server
+## Demonstração
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+	<img src="/src/assets/ecommerce.png">
+</p>
 
-## Code scaffolding
+- Você pode acessar o projeto clicando <a href="ecommerce-angular-lkdc2w96q-queonias.vercel.app">aqui</a>.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2>Como executar o projeto</h2>
+<p>Para executar o projeto, siga as instruções abaixo:</p>
+<ol>
+<li>Clone o repositório em sua máquina local.</li>
+<li>Abra o terminal e navegue até a pasta do projeto.</li>
+<li>Digite o comando <code>npm install</code> para instalar as dependências do projeto.</li>
+<li>Digite o comando <code>ng serve</code> para iniciar o servidor local de desenvolvimento.</li>
+<li>Abra o navegador e navegue até <a href="http://localhost:4200">http://localhost:4200</a> para visualizar o projeto em execução.</li>
+</ol>
 
-## Build
+<h2>Considerações finais</h2>
+<p>Este projeto foi desenvolvido como um exercício para aplicar conhecimentos em Angular. É um projeto simples, mas apresenta uma implementação completa de uma página de e-commerce básica.</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<p>Por favor, sinta-se à vontade para entrar em contato comigo em caso de dúvidas ou sugestões.</p>
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Criado com 💙 por [Queonias G. Rocha](https://github.com/Queonias)
