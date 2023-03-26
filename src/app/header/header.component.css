@@ -43,7 +43,7 @@ li {
 }
 
 .main-header__menu a:hover {
-  background-color: rgb(4, 16, 108);
+  background-color: rgb(58, 69, 158);
   color: #fff;
 }
 
@@ -55,7 +55,7 @@ li {
 }
 
 .badge-carrinho {
-  /* background-color: rgba(34, 43, 170, 0.933); */
+  background-color: #2a7eb9;
   padding: 5px 10px;
   border-radius: 4px;
   color: white;
