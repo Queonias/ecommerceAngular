@@ -16,7 +16,7 @@
 	<img src="/src/assets/ecommerce.png">
 </p>
 
-- Você pode acessar o projeto clicando <a href="ecommerce-angular-lkdc2w96q-queonias.vercel.app">aqui</a>.
+- Você pode acessar o projeto clicando <a href="https://ecommerce-angular-pied.vercel.app/produtos">aqui</a>.
 
 <h2>Como executar o projeto</h2>
 <p>Para executar o projeto, siga as instruções abaixo:</p>
