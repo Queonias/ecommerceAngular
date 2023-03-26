@@ -13,7 +13,7 @@
 ## Demonstração
 
 <p align="center">
-	<img src="/images/trybewarts.png">
+	<img src="/src/assets/ecommerce.png">
 </p>
 
 - Você pode acessar o projeto clicando <a href="ecommerce-angular-lkdc2w96q-queonias.vercel.app">aqui</a>.
