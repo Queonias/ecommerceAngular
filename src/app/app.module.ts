@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { ProwayComponent } from './proway/proway.component';
 import { HeaderComponent } from './header/header.component';
 import { RouterComponent } from './router/router.component';
+import { NaoEncontradoComponent } from './nao-encontrado/nao-encontrado.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProwayComponent,
     HeaderComponent,
-    RouterComponent
+    RouterComponent,
+    NaoEncontradoComponent
   ],
   imports: [
     BrowserModule,
