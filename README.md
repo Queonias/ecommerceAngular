@@ -13,7 +13,7 @@
 ## Demonstração
 
 <p align="center">
-	<img src="/src/assets/ecommerce.png">
+<a href="https://ecommerce-angular-pied.vercel.app/produtos"><img src="/src/assets/ecommerce.png"></a>
 </p>
 
 - Você pode acessar o projeto clicando <a href="https://ecommerce-angular-pied.vercel.app/produtos">aqui</a>.
